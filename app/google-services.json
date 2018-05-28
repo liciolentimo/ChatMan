@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "355093656748",
+    "firebase_url": "https://chatman-1479d.firebaseio.com",
+    "project_id": "chatman-1479d",
+    "storage_bucket": "chatman-1479d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355093656748:android:d48f1306870d9f47",
+        "android_client_info": {
+          "package_name": "com.lentimosystems.chatman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355093656748-qg28e8l01jdb0tg1up8uia5lu2me112r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lentimosystems.chatman",
+            "certificate_hash": "3b4a0cd50fea19f83fd1637ed571024a6168a1b9"
+          }
+        },
+        {
+          "client_id": "355093656748-076mtau4cut5taak8jgamo2i97e3r8ud.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "355093656748-076mtau4cut5taak8jgamo2i97e3r8ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7lRVd9hwJQqOfbaMJwHi6gix1Gxyp9lU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355093656748-076mtau4cut5taak8jgamo2i97e3r8ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
