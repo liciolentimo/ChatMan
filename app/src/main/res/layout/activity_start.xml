@@ -15,4 +15,13 @@
         android:layout_marginBottom="257dp"
         android:text="Welcome to Chatman"
         android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="176dp"
+        android:text="@string/need_a_new_account" />
 </RelativeLayout>
